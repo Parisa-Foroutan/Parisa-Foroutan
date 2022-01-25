@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Parisa-Foroutan
 - 👀 I’m interested in Data Science and Deep Learning.
-- 🌱 I’m currently learning the applications of deep learning for financial time series predictions.
+- 🌱 I’m currently working on the applications of deep learning for financial time series predictions.
 
 
 <!---
